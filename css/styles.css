@@ -1,0 +1,41 @@
+body{
+    background-color: #191970;
+}
+h3{
+   width:30%;
+   padding:30px 20px 10px 100px;
+   font-size: 30px;
+}
+
+.section{
+  
+    background-color: #7b68ee;
+    height: 350px;
+    width:75%;
+    margin:200px auto 100px ;
+    position:relative;
+   
+
+}
+.img{
+  position: absolute;
+  right:0;
+  height:350px;
+  width:50%;
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+   
+
+}
+.intr{
+    color: red;
+}
+.des{
+    width: 30%;
+    padding-left: 100px;
+}
+.main{
+    padding: 40px 50px 50px 100px;
+    width:45%;
+    
+}
