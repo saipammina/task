@@ -1,5 +1,6 @@
 body{
-    background-color: #191970;
+    background-color:  hsl(233, 47%, 7%);
+    color:hsl(0, 0%, 100%)
 }
 h3{
    width:30%;
@@ -9,7 +10,7 @@ h3{
 
 .section{
   
-    background-color: #7b68ee;
+    background-color: hsl(244, 38%, 16%);
     height: 350px;
     width:75%;
     margin:200px auto 100px ;
@@ -28,14 +29,18 @@ h3{
 
 }
 .intr{
-    color: red;
+    color: hsl(277, 64%, 61%);
 }
 .des{
     width: 30%;
     padding-left: 100px;
+    color:hsla(0, 0%, 100%, 0.75);
 }
 .main{
     padding: 40px 50px 50px 100px;
     width:45%;
-    
+    color:hsl(0, 0%, 100%);
+}
+.happy{
+    color:hsla(0, 0%, 100%, 0.6);
 }
